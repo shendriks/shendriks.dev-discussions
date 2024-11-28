@@ -1,6 +1,6 @@
 {
   "origins": [
     "https://shendriks.dev",
-    "http://localhost:1313"
+    "http://localhost:[0-9]+"
   ]
 }
