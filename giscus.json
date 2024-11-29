@@ -3,6 +3,7 @@
     "https://shendriks.dev"    
   ],
   "originsRegex": [
-    "http://localhost:[0-9]+"
+    "http://localhost:[0-9]+",
+    "https://.+\.westeurope\.5\.azurestaticapps\.net"
   ]
 }
